@@ -4,7 +4,7 @@
 3 コンフリクトするのは楽しい! hoge
 5 hogeZ
 6 hoge
-7 hoge1
+7 hoge
 9 hoge
 11 hoge
 10 hogeさいどトライ
